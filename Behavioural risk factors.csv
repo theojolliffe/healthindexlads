@@ -1,0 +1,150 @@
+Area Code,Area Name,Geography type,Year,Index level,Indicator/grouping name,Index value,parents
+E06000001,Hartlepool,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,81.0,E12000001
+E06000002,Middlesbrough,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,82.2,E12000001
+E06000003,Redcar and Cleveland,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,90.7,E12000001
+E06000004,Stockton-on-Tees,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,85.1,E12000001
+E06000005,Darlington,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.1,E12000001
+E06000006,Halton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,84.7,E12000002
+E06000007,Warrington,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,94.0,E12000002
+E06000008,Blackburn with Darwen,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,85.8,E12000002
+E06000009,Blackpool,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,77.3,E12000002
+E06000010,"Kingston upon Hull, City of",Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,75.8,E12000003
+E06000011,East Riding of Yorkshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.2,E12000003
+E06000012,North East Lincolnshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,92.4,E12000003
+E06000013,North Lincolnshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,92.0,E12000003
+E06000014,York,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,103.3,E12000003
+E06000015,Derby,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,88.5,E12000004
+E06000016,Leicester,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,93.5,E12000004
+E06000017,Rutland,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,113.6,E12000004
+E06000018,Nottingham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,89.5,E12000004
+E06000019,"Herefordshire, County of",Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,106.7,E12000005
+E06000020,Telford and Wrekin,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.8,E12000005
+E06000021,Stoke-on-Trent,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,77.5,E12000005
+E06000022,Bath and North East Somerset,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.9,E12000009
+E06000023,"Bristol, City of",Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.1,E12000009
+E06000024,North Somerset,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.9,E12000009
+E06000025,South Gloucestershire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.7,E12000009
+E06000026,Plymouth,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.0,E12000009
+E06000027,Torbay,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.0,E12000009
+E06000030,Swindon,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,91.9,E12000009
+E06000031,Peterborough,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.2,E12000006
+E06000032,Luton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,86.3,E12000006
+E06000033,Southend-on-Sea,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.6,E12000006
+E06000034,Thurrock,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.0,E12000006
+E06000035,Medway,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.1,E12000008
+E06000036,Bracknell Forest,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,111.4,E12000008
+E06000037,West Berkshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,115.3,E12000008
+E06000038,Reading,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.2,E12000008
+E06000039,Slough,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,90.7,E12000008
+E06000040,Windsor and Maidenhead,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,112.3,E12000008
+E06000041,Wokingham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,118.0,E12000008
+E06000042,Milton Keynes,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,103.9,E12000008
+E06000043,Brighton and Hove,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.0,E12000008
+E06000044,Portsmouth,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.5,E12000008
+E06000045,Southampton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,91.6,E12000008
+E06000046,Isle of Wight,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.4,E12000008
+E06000047,County Durham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,93.0,E12000001
+E06000049,Cheshire East,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.9,E12000002
+E06000050,Cheshire West and Chester,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,100.9,E12000002
+E06000051,Shropshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.5,E12000005
+E06000052,Cornwall,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.6,E12000009
+E06000054,Wiltshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,106.7,E12000009
+E06000055,Bedford,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.4,E12000006
+E06000056,Central Bedfordshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.4,E12000006
+E06000057,Northumberland,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,90.4,E12000001
+E06000058,"Bournemouth, Christchurch and Poole",Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,96.8,E12000009
+E06000059,Dorset,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.4,E12000009
+E06000060,Buckinghamshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,109.9,E12000008
+E08000001,Bolton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,92.1,E12000002
+E08000002,Bury,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.0,E12000002
+E08000003,Manchester,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,92.7,E12000002
+E08000004,Oldham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,90.7,E12000002
+E08000005,Rochdale,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,89.7,E12000002
+E08000006,Salford,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,84.6,E12000002
+E08000007,Stockport,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.6,E12000002
+E08000008,Tameside,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,91.8,E12000002
+E08000009,Trafford,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.1,E12000002
+E08000010,Wigan,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,87.5,E12000002
+E08000011,Knowsley,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,81.9,E12000002
+E08000012,Liverpool,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,85.8,E12000002
+E08000013,St. Helens,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,84.1,E12000002
+E08000014,Sefton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,89.1,E12000002
+E08000015,Wirral,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,88.1,E12000002
+E08000016,Barnsley,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,86.4,E12000003
+E08000017,Doncaster,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,88.2,E12000003
+E08000018,Rotherham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,89.8,E12000003
+E08000019,Sheffield,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.6,E12000003
+E08000021,Newcastle upon Tyne,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,90.9,E12000001
+E08000022,North Tyneside,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,83.8,E12000001
+E08000023,South Tyneside,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,83.8,E12000001
+E08000024,Sunderland,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,85.7,E12000001
+E08000025,Birmingham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,93.2,E12000005
+E08000026,Coventry,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,92.3,E12000005
+E08000027,Dudley,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.4,E12000005
+E08000028,Sandwell,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.5,E12000005
+E08000029,Solihull,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,100.9,E12000005
+E08000030,Walsall,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,96.5,E12000005
+E08000031,Wolverhampton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,83.4,E12000005
+E08000032,Bradford,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,88.0,E12000003
+E08000033,Calderdale,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.0,E12000003
+E08000034,Kirklees,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.4,E12000003
+E08000035,Leeds,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,98.4,E12000003
+E08000036,Wakefield,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,87.4,E12000003
+E08000037,Gateshead,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,85.3,E12000001
+E09000002,Barking and Dagenham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.1,E12000007
+E09000003,Barnet,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,112.7,E12000007
+E09000004,Bexley,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,109.3,E12000007
+E09000005,Brent,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,100.2,E12000007
+E09000006,Bromley,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.7,E12000007
+E09000007,Camden,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,111.6,E12000007
+E09000008,Croydon,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,108.5,E12000007
+E09000009,Ealing,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,106.6,E12000007
+E09000010,Enfield,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.2,E12000007
+E09000011,Greenwich,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.3,E12000007
+E09000012,Hackney,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.7,E12000007
+E09000013,Hammersmith and Fulham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.7,E12000007
+E09000014,Haringey,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.8,E12000007
+E09000015,Harrow,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.8,E12000007
+E09000016,Havering,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.2,E12000007
+E09000017,Hillingdon,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.5,E12000007
+E09000018,Hounslow,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.6,E12000007
+E09000019,Islington,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.5,E12000007
+E09000020,Kensington and Chelsea,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.8,E12000007
+E09000021,Kingston upon Thames,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,112.6,E12000007
+E09000022,Lambeth,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.5,E12000007
+E09000023,Lewisham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.3,E12000007
+E09000024,Merton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,111.9,E12000007
+E09000025,Newham,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,96.0,E12000007
+E09000026,Redbridge,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,109.6,E12000007
+E09000027,Richmond upon Thames,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,118.7,E12000007
+E09000028,Southwark,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.2,E12000007
+E09000029,Sutton,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,98.7,E12000007
+E09000030,Tower Hamlets,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,100.6,E12000007
+E09000031,Waltham Forest,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,108.2,E12000007
+E09000032,Wandsworth,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.3,E12000007
+E09000033,Westminster,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.4,E12000007
+E10000003,Cambridgeshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.3,unk
+E10000006,Cumbria,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,100.5,unk
+E10000007,Derbyshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.8,unk
+E10000008,Devon,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,109.9,unk
+E10000011,East Sussex,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,110.0,unk
+E10000012,Essex,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.0,unk
+E10000013,Gloucestershire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.1,unk
+E10000014,Hampshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,107.8,unk
+E10000015,Hertfordshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.3,unk
+E10000016,Kent,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,106.1,unk
+E10000017,Lancashire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,97.2,unk
+E10000018,Leicestershire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.6,unk
+E10000019,Lincolnshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.9,unk
+E10000020,Norfolk,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,101.3,unk
+E10000021,Northamptonshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,93.8,unk
+E10000023,North Yorkshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,102.5,unk
+E10000024,Nottinghamshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.9,unk
+E10000025,Oxfordshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,111.8,unk
+E10000027,Somerset,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,96.7,unk
+E10000028,Staffordshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,95.9,unk
+E10000029,Suffolk,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,103.6,unk
+E10000030,Surrey,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,111.1,unk
+E10000031,Warwickshire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,99.9,unk
+E10000032,West Sussex,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,105.3,unk
+E10000034,Worcestershire,Upper Tier Local Authority,2018,Subdomain,Behavioural risk factors,104.6,unk
